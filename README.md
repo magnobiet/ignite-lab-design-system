@@ -3,13 +3,16 @@
 [![Made with Vite](https://img.shields.io/badge/Made%20with-Vite-646cff.svg)](https://vitejs.dev/)
 [![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-007acc.svg)](https://www.typescriptlang.org/)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB.svg)](https://reactjs.org/)
-[![Storybook](https://cdn.jsdelivr.net/gh/storybooks/brand@master/badge/badge-storybook.svg)](https://storybook.js.org/)
+
 
 ## TL;DR
 
-[![Preview](preview.png)](https://www.figma.com/file/UNIb1sf1sqxhVQrU0bbZv1/Ignite-Lab-Design-System)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/file/UNIb1sf1sqxhVQrU0bbZv1/Ignite-Lab-Design-System)
+[![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flatr&logo=storybook&logoColor=white)](https://main--634c8166d557b5fde89afde1.chromatic.com/)
 
-Projeto desenvolvido durante o Ignite Lab da Rocketseat (de 10 à 13 de outubro de 2022) usando as tecnologias:
+[![Preview](preview.png)](https://magnobiet.com/ignite-lab-design-system/)
+
+Projeto desenvolvido durante o Ignite Lab da Rocketseat (de 10 à 13 de outubro de 2022). usando as tecnologias:
 
 - [Vite](https://vitejs.dev/)
 - [ReactJS](https://reactjs.org/)

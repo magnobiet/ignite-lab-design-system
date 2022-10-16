@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+  @apply bg-gray-900;
+  min-width: 100vw;
+  min-height: 100vh;
+}

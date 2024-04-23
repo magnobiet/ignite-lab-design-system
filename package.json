@@ -44,7 +44,7 @@
     "autoprefixer": "^10.4.12",
     "babel-loader": "^8.2.5",
     "chromatic": "^6.10.2",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "msw": "^0.47.4",
     "msw-storybook-addon": "^1.6.3",
     "postcss": "^8.4.18",
